@@ -1,2 +1,2 @@
 my first git experience 
-added changes
+added changes   changes feature_2
